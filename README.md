@@ -38,7 +38,9 @@ pip install torch transformers peft numpy pandas
 ```
 python3 Llama_train.py
 ```
-python3 evolution_lora.py
+
+```
+python3 evaluate_lora.py
 ```
 # 引用说明
 若使用本项目的数据或代码，请引用对应期刊论文。
